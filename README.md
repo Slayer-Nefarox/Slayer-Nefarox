@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Slayer-Nefarox
 - 👀 I’m interested in 3d applications, virtual reality, ray-tracing, web/html-code interactions and artificial intelligence in games.
-- 🌱 I’m currently on a computer science on the Federal University of Mato Grosso do Sul, Brazil.
+- 🌱 I’m currently on a computer science course on the Federal University of Mato Grosso do Sul, Brazil.
 - 💞️ I’m looking to collaborate on anything, mostly wanting to grow my experience in the area.
 - 📫 How to reach me: slayernefaroxindustries@gmail.com  :D
 
